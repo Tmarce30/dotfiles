@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = thibaud@illicopro.fr
+	email = thibaud.marce@matera.eu
 	name = Thibaud Marce
